@@ -1,0 +1,2 @@
+# CapRateCalculator
+Calculate the 
